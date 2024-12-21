@@ -1,0 +1,2 @@
+# kazrobotics
+school and students
